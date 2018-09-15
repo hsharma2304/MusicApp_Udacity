@@ -1,1 +1,1 @@
-# MusicApp_Udacity
+# MusicApp_Assignment_Udacity
